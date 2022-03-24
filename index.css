@@ -1,0 +1,31 @@
+body {
+    font-family: "Lato";
+    background-color: azure;
+    font-weight: bold;
+    text-align: center;
+    line-height: 3rem;
+    font-style: italic;
+    background-color: #016f32;
+    color: #fff;
+}
+button {
+    color: #016f32;
+    width:150px;
+    height: 30px;
+    background: goldenrod;
+    font-size: 1em;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    padding-top: 3px;
+    margin: 5px 0;
+    
+}
+
+h1 { 
+    color: goldenrod;
+}
+
+#message-el {
+    
+}

@@ -1,10 +1,9 @@
 body {
     font-family: "Lato";
     background-color: azure;
-    font-weight: bold;
+    font-weight: bold ;
     text-align: center;
     line-height: 3rem;
-    font-style: italic;
     background-color: #016f32;
     color: #fff;
 }
